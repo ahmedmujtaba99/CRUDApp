@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrudApp</string>
+    <string name="doctor_name">Doctor Name</string>
+    <string name="phone">Phone:</string>
+    <string name="day">Day:</string>
+    <string name="date">Date:</string>
+</resources>
